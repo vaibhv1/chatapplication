@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 100px;
+  margin-bottom: 20px;
+  background-color: #4b494c;
+  color: white;
+  font-size: 1.2rem;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.header-title {
+  font-weight: bold;
+}
+
+.header-user {
+  font-size: 1rem;
+  font-style: italic;
+}
